@@ -1,1 +1,1 @@
-{shareus.io} {J4j9he3ZIpPEg5mhuWFKSWNKJOH3}
+{shareus.io} {https://api.shareus.io/easy_api?key=J4j9he3ZIpPEg5mhuWFKSWNKJOH3&link=https://shareus.io}
